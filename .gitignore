@@ -7,3 +7,14 @@ Versuch*/*.log
 Versuch*/*.toc
 Versuch*/*.synctex.gz
 
+
+.DS*
+*\.DS*
+*/.DS*
+*/**/.DS*
+*\**\.DS*
+
+tmp/*
+*/tmp/*
+tmp\*
+*\tmp\*
